@@ -1,5 +1,3 @@
-# luciano
-tv
 #EXTINF
  
  
@@ -7,8 +5,8 @@ tv
 variedades
  
  
-#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="variedades",america tv lulu
-https://stmv8.samcast.com.br/jarlesluiz3539/jarlesluiz3539/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="variedades",america tv
+https://cdn.jmvstream.com/w/AVJ-12962/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="variedades",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png"group-title="variedades",rede america
@@ -131,5 +129,6 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1061956937.m3u8
 #EXTINF:-1tvg-logo="https://imgur.com/L2ib2Mg.png"group-title="variedades",TV RBC Ao Vivo
 https://5fb29de4928ea.streamlock.net/id2515/id2515/chunklist.m3u8
+ 
  
 
