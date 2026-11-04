@@ -7,7 +7,7 @@ https://uucpaibhcwjeufppojlc.supabase.co/functions/v1/ad-media?v=4d66f8eb-980f-4
 https://lib.bz/video/site_gerou.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://uucpaibhcwjeufppojlc.supabase.co/functions/v1/ad-media?v=4d66f8eb-980f-480d-939d-0f5093d31e92&f=play_480p.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
