@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/qrcode.png" group-title="Variedades", htforum.net
-https://lib.bz/video/site.mp4
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/qrcode.png" group-title="Variedades",anos
+https://uucpaibhcwjeufppojlc.supabase.co/functions/v1/ad-media?v=4d66f8eb-980f-480d-939d-0f5093d31e92&f=play_480p.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvonline.png" group-title="Variedades", www.tvonline.global
 https://lib.bz/video/site_gerou.mp4
