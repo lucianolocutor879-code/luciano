@@ -25,12 +25,10 @@ https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-logo="https://i.imgur.com/J2EAZPS.png"group-title="TV ABERTA",TV Brusque meio norte
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="TV ABERTA",Rede SPTV  tv aberta
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2af74260c1c0377e7626a196192a5236.png"group-title="TV ABERTA",TV Brusque TV MEIO NORT
-https://video01.logicahost.com.br/tvbrusque/tvbrusque/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c053aa2131090d7c1a5e0096422b9883.png"group-title="TV ABERTA",Lider TV MEI NORT
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="TV ABERTA",Rede SPTV  tv aberta
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.png"group-title="TV ABERTA",TVC Ourinhos clocar aberto
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br@SD" tvg-logo="https://i.imgur.com/Y7b29VG.png"group-title="TV ABERTA",TV Padre Cicero (720p)
@@ -49,8 +47,6 @@ https://isaocorp.cloudecast.com/playtv/mono.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/RTN-logo.png" group-title="TV ABERTA",RTN  critca
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
-#EXTINF: -1 tvg-logo= group-title="TV ABERTA",TV Cristal recor new
-https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/05/petlovers.jpg" group-title="TV ABERTA",Pet Lovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvdestak.png" group-title="TV ABERTA",TV Destak 
@@ -64,13 +60,80 @@ https://www.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=mB7CafBZaUKeFByei2z2
 
 ################################## TV WEB
 
-
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="TV WEB",cidade tv 
+https://stmv7.voxtvhd.com.br/cidadetv/cidadetv/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Tv Singular 
+https://stmv3.srvsh.com.br/danielsantos1659/danielsantos1659/chunklist_w463242397.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",REDE SPTV 
+https://video01.logicahost.com.br/websptv/websptv/main_stream.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV TVR 
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV GOITACÁ
+https://video01.brascast.com/david7639/david7639/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV INFORBAHIA
+https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Litoral RN XTTV
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/chunklist_w413872395.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",SBC XTTV
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/chunklist_w413872395.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Já Viu TV XTTV
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/chunklist_w413872395.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Cidade 10 XTTV
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/chunklist_w413872395.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Max 90 XTTV
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/chunklist_w413872395.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",BRKS TV XTTV 
+https://lbgo.bozztv.com/ssh101/ssh101/tvnilcera/chunks.m3u8?lb_backend_hint=6
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Cine Catástrofe XTTV
+https://lbgo.bozztv.com/ssh101/ssh101/tvnilcera/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Maischeti XTTV
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/chunklist_w413872395.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Clouding TV 
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w951497190.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",SBC 
+https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Wording de Televisao
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w2145980869.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Estrela do Ma
+https://video01.brascast.com/c2436014/c2436014/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",OS DETETIVES
+https://video11.logicahost.com.br/detetives/detetives/main_stream.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Rede SPi XTTV 
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w95226539.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Cruzeiro do Brasil XTTV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w95226539.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",COMEDY CLUB
+https://video11.logicahost.com.br/comedyclub/comedyclub/main_stream.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Tv ktv brasil
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TVNEWS 
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",tv cidade brasil
+https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Tvcei 
+https://stmv5.samcast.com.br/volmir9123/volmir9123/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Tv Explosãofm
+https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w1331540833.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV DIFUSÃO 
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1165102661.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV MZ 
+https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",SBC Studios
+https://video01.brascast.com/tv411747/tv411747/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",SBC Studios
+https://video01.brascast.com/tv411747/tv411747/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TVNA filmes 
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",AWTV STREAMING AO VIVO
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",NBX TV 
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c13e6b573ac2c21dd7268e3a65f95b34.png"group-title="TV WEB",Rede Sempre TV Ao Vivo 
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8?hls_ctx=i5209478
 #EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV agnus Dei
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8?hls_ctx=866319m3
+#EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",TV Paradise XTTV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w95226539.m3u8
 #EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f5f66db0430b6a9bb16cc342c2c50eac.webp"group-title="TV WEB",Auge TV
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/chunklist_w2043885288.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="TV WEB",TV TV FOZ TV BRASIL
@@ -93,6 +156,8 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="TV WEB", CONECT TV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="TV WEB",TV CHROMA
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nmI1IXD.png" group-title="TV WEB", MAM NEWS WEB TV
 https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMetropole.br@SD" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="TV WEB",TV Metropole 
@@ -110,21 +175,13 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 /index.m3u8
 
 
-
-
-
-
 ################################## TV BODCAST
 #EXTINF:-1 tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="TV BODCAST",Fala Litoral 
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="TV BODCAST",TV CHROMA
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="TV BODCAST",PLENA TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zBbubNN.png" group-title="TV BODCAST",PRIMER TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRio.br@SD" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="TV BODCAST",TVC-Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="TV BODCAST",Nova Era TV  Lages SC Brasil
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 
@@ -275,13 +332,6 @@ https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 
 
 
-
-
-
-
-
-
-
 #################################  TV FILMES WEB
 
 INF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvseries.png" group-title="TV FILMES WEB", TV Séries 
@@ -371,9 +421,16 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 group-title="TV NOTICIA"tvg-logo="https://i.imgur.com/MWGAfvV.png",TV NOTICIA",Record News HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIsvQpuEmR6OPDWjxMUqmZE4xRcyNcM-sCuldllB6dOg&s"group-title="TV NOTICIA",Rede Tv Família Web Liv (jovem pan
 https://video01.kshost.com.br:4443/walmeson4783/walmeson4783/chunklist_w1852305261.m3u8
+#EXTINF: -1 tvg-logo= group-title="TV NOTICIA",TV Cristal recor new
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="TV NOTICIA",SBT News XTTV 
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00527-amg00527c5-amgplt0026/5669cdef-db02-11f1-8054-f63a2974a260/77/1920x1080_3501608/index.m3u8
+
+
+
+
 
 
 ############################################################################VARIEDADES
@@ -387,9 +444,8 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqVSK1PVZJgjmWUUU1V7dLHVyV4yvm3E4eecn2xuktqj8Ln5uWCuyWaY&s"group-title="TV SPORT",GE Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-
-
-
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="TV SPORT",CazéTV XTTV 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 
 
@@ -405,8 +461,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YowjWr
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="TV GLOB RECORD SBT",RBATV BAND
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/band.png" group-title="TV GLOB RECORD SBT",Band Pará  RBA TV
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
 EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="TV GLOB RECORD SBT", RBA TV   band  
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="TV GLOB RECORD SBT",Band Bahia Ao Vivo Online
@@ -415,12 +470,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="TV GLOB RECORD SBT",Band TV Arapuan PB
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w2115283166_b1596000.m3u8
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="TV GLOB RECORD SBT",Band SP
-https://iptv.vivatele.com/live/viva_padrao/viva2384/3.m3u8
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="TV GLOB RECORD SBT",Band ba
-https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTZmZjFlLThiYmMtNzZkOS1iY2RhLWNmZTU4YzJiMGJlNi8iLCJ1aWQiOiJhOTc2MjE5OC00MjM2LTRlNDgtOTM3NC05NzdiNjc1OTkwYjQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1OTEwNjc1MCwiaWF0IjoxNzU5MTA2NzUwLCJleHAiOjE3OTA2NDI3NTAsImp0aSI6ImE5NzYyMTk4LTQyMzYtNGU0OC05Mzc0LTk3N2I2NzU5OTBiNCIsImlzcyI6IlNwYWxsYSJ9.uRNf3D9sb3NZj42AnPMRKL58INZbWmtR792DFhlnMVw&uid=a9762198-4236-4e48-9374-977b675990b4
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="TV GLOB RECORD SBT",Band Campinas
-https://hqf6tcxuhk.singularcdn.net.br/live/0197a7cd-ca64-7087-a66b-1d4482670af5/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTdhN2NkLWNhNjQtNzA4Ny1hNjZiLTFkNDQ4MjY3MGFmNS8iLCJ1aWQiOiJhOTc2MjE5OC00MjM2LTRlNDgtOTM3NC05NzdiNjc1OTkwYjQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1OTEwNjM4MCwiaWF0IjoxNzU5MTA2MzgwLCJleHAiOjE3OTA2NDIzODAsImp0aSI6ImE5NzYyMTk4LTQyMzYtNGU0OC05Mzc0LTk3N2I2NzU5OTBiNCIsImlzcyI6IlNwYWxsYSJ9.4A5PRYl-G1Oz4FgR9tz7c1byGLt3kL17KDSlo_z9_e8&uid=a9762198-4236-4e48-9374-977b675990b4&magica=sim
+
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="TV GLOB RECORD SBT",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD14mxkjuTxuhjXwQtcL5TV-n1WT76KHgDsN6THDB9jA&s"group-title="TV GLOB RECORD SBT",Record TV Vitória (ES)
@@ -445,18 +495,12 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840d386b756ae59be201b35dcea61fc5.webp"group-title="TV GLOB RECORD SBT",sbt cental
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Yn15hPQ76C4
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="TV GLOB RECORD SBT", SBT TV Cidade Verde 
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvguajara.png" group-title="TV GLOB RECORD SBT", SBT TV Guajará 
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDifusoraLeste.br@SD" tvg-logo="https://i.imgur.com/hEd25Cr.png" group-title="TV GLOB RECORD SBT",TV Difusora Leste sbt
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/redetv-pr.webp" group-title="TV GLOB RECORD SBT",Imperial Tv RedeTv
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8?hls_ctx=o5329o0r
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/12/redetv-pr.webp" group-title="TV GLOB RECORD SBT", RedeTV! TV PR
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVES.br@SD" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="TV GLOB RECORD SBT",Rede TV ES 
-https://streaming.cloudecast.com/hls/redetves/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="TV GLOB RECORD SBT",Rede TV  PR 
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="TV GLOB RECORD SBT",Rede TV SGC Rondônia 
@@ -469,8 +513,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1865124099.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="TV GLOB RECORD SBT",TV Brasil Oeste  rede brasil
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp"group-title="TV GLOB RECORD SBT",Rede Brasil SP
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+
 
 
 
