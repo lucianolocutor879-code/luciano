@@ -483,6 +483,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cPXuT6-Ixfi1NUDsgdhYhMTasSEs_ar1peObMX3ZZA&s"group-title="TV GLOB RECORD SBT",Globo TV Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cPXuT6-Ixfi1NUDsgdhYhMTasSEs_ar1peObMX3ZZA&s"group-title="TV GLOB RECORD SBT",Globo TV Bahia2
+https://live-ber-sp-12-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTEyLTM2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDk1OTM4NywiaWF0IjoxNzk0OTM3Nzg3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.c4Ao22ceucbpisgAz3tM8TEzSF6HFzpNqBe2UAEyIM_vWInstQprjjFhHupRz7i-dxH2d8NhVnHMn2yaUkGoBr0PMXWjNzzS6N97otKHPkMv0h7BuWVm4b-8mvAYd0Alq1Vuols7UqcF5ENXuyoBiwns8a2q8b_Wz8hVWU9Y6dxc6mAAFHM1SBLlyqCPpcnqGAkoOYgcv1qVq24m5r3Pn9Voi_UfaKpdWmfF7N-nok7-EF28wUdXJkDlS3caNptVG0SDGx1x5GmGrEqM-vN36mW4fvOYcXc5vuO6kUMMvzb2oobhnm4YVAEojf4bH69rGDYZv0Rt4qZr-RRZGUH8qg/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/8fb15e9c-3372-47cd-83a3-72b7a3b798be:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cPXuT6-Ixfi1NUDsgdhYhMTasSEs_ar1peObMX3ZZA&s"group-title="TV GLOB RECORD SBT",tv aratu
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840d386b756ae59be201b35dcea61fc5.webp"group-title="TV GLOB RECORD SBT",sbt cental
