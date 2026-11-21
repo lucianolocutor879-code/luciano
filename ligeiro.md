@@ -1,4 +1,4 @@
-##################################TV ABERTA
+##################################TV ABERTaa
 
 
 #EXTINF:-1tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14bb184c151e53c2210b218fff80f69e.webp"group-title="TV ABERTA",Caravana Play
